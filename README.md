@@ -2,3 +2,6 @@
 
 **https://www.linkedin.com/feed/update/urn:li:activity:7189465730151526400/** - Car Rush Linkedin
 
+*I have Include the Built files in the drive*
+*You can download and unzip the file*
+*After unzipping Open '.exe' file and play the game*
