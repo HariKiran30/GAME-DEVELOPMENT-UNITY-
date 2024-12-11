@@ -5,3 +5,6 @@
 *I have Include the Built files in the drive*
 *You can download and unzip the file*
 *After unzipping Open '.exe' file and play the game*
+*2 Games Included" 
+1. Car Rush in zombie Island
+2. Cube shooter
